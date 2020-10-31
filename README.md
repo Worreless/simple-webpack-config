@@ -1,4 +1,4 @@
-# Simple webpack config
+# 📦 Simple webpack config
 
 > A minimal webpack 5 config with only Babel, SASS and ESLint on board
 
